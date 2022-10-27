@@ -1,11 +1,11 @@
 # scottish-local-authorities-carto
-<h3>Cartographic versions of Scottish local authorities boundaries and centroids</h3>
+<h2>Cartographic versions of Scottish local authorities boundaries and centroids</h3>
 
-<h2>LocalAuthority_S12_Centroids_20200526.csv</h2>
+<h3>LocalAuthority_S12_Centroids_20200526.csv</h2>
 
 Geographic and population weighted centroids (PWC) for local authorities, calculated at 2020-05-26. PWC created using 2011 Output Area populations and Median Center tool in ArcGIS
 
-<h2>ne_10m_Scotland_local_authorities.zip</h2>
+<h3>ne_10m_Scotland_local_authorities.zip</h2>
 
 1:10 million scale version of Local Authorities for Scotland-scale mapping. Modified from Natural Earth 1:10M data. 
 
